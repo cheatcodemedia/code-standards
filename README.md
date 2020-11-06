@@ -1,4 +1,5 @@
 # CheatCode Media Group Coding Standards
+This repository serves as a list of standards, guides and practices we stick to for open and closed source projects at CheatCode.
 
 ## Language Rules
 ### Java
